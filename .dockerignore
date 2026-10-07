@@ -1,0 +1,12 @@
+**/private
+**/.venv
+**/venv
+**/__pycache__
+**/.env
+**/.env.*
+**/*.sqlite3
+**/*.db
+**/*.key
+node_modules
+dist
+.git
