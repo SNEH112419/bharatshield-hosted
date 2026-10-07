@@ -6,7 +6,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://REPLACE-BACKEND-HOST/api/:path*"
+      "destination": "https://bharatshield-backend-p1do.onrender.com/api/:path*"
     }
   ]
 }
